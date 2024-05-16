@@ -3,4 +3,4 @@
 
 # Write a Verilog module to implement the specification as Moore machine using the following template:
 #    module dlock (unlock, b_in, clear, clk);
-![image](https://github.com/RESMIRNAIR/DIGI_LOCK/assets/154305926/61af2bd3-8217-461d-bbce-df66969fe413)
+![image](https://github.com/RESMIRNAIR/DIGI_LOCK/assets/154305926/61af2bd3-8217-461d-bbce-df66969fe413) 
